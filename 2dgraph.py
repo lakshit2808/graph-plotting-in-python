@@ -1,3 +1,6 @@
+
+#To run this program first install matplotlib to your system 
+# for that simple open your command prompt and type this command pip install matplotlib
 import matplotlib.pyplot as plt 
 
 x =[]
